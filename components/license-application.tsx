@@ -22,7 +22,7 @@ export const LicenseApplication = () => {
           </div>
         </div>
         <div className="flex md:flex-row flex-col gap-2.5">
-          <Button className="bg-[#00A54F]">New license form</Button>
+          <Button className="bg-[#00A54F]">Apply for New License</Button>
           <Button variant="ghost">License renewal form</Button>
         </div>
       </div>
